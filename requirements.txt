@@ -1,0 +1,10 @@
+opencv-python-headless
+torch
+torchvision
+detectron2
+transformers
+easyocr
+streamlit
+Pillow
+matplotlib
+pandas
